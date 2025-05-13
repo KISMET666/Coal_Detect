@@ -1,0 +1,12 @@
+[
+  {
+    "user_id": "639708cb-39f0-4bce-855f-71d8d9e16379",
+    "username": "admin",
+    "email": "admin@system.com",
+    "password_hash": "scrypt:32768:8:1$XL8iFokMoSsw0Fcg$0607b3681c502cbaf190ca6f707e557f7cee7e96894bd1e65cdb1cdc83872c8b8dfcca0400b0056c44dacb97039b0531d35eaefbfd40b9816f623de36544ca81",
+    "role": "admin",
+    "avatar": null,
+    "created_at": "2025-05-02T14:51:16.599387",
+    "last_login": "2025-05-09T22:51:27.712519"
+  }
+]
